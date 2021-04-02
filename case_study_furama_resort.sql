@@ -48,10 +48,10 @@ CREATE TABLE type_of_customers (
 CREATE TABLE customers (
     id_customer INT AUTO_INCREMENT PRIMARY KEY,
     id_type_of_customer INT NOT NULL,
-    fullname_customer VARCHAR(45) DEFAULT 'no name',
+    fullname_customer VARCHAR(45) not null DEFAULT 'no name',
     date_of_birth_customer DATE,
     id_card_customer INT(10),
-    phone_number INT(10),
+    phone_number varchar(10),
     email VARCHAR(30),
     address_customer VARCHAR(300),
     FOREIGN KEY (id_type_of_customer)
