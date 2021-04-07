@@ -32,9 +32,6 @@ li{
 i{
     font-size: 2rem;
 }
-.header{
-    background-color: #004C00;}
-
 .header_left input[type=search]{
     width: 250px;
     border: 1px solid white;
@@ -44,6 +41,9 @@ i{
 img{
     border-radius: 15px;
 }
-.row header{
-    position: fixed;
+
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+        width: 100%;
+    }
 }
