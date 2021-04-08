@@ -1,23 +1,30 @@
-use classicmodels;
+use
+classicmodels;
 
-delimiter //
+delimiter
+//
 create procedure findAllCustomers()
-begin 
-	select *
-    from customers;
-end//
+begin
+select *
+from customers;
+end
+//
 delimiter ;
 
 call findAllCustomers();
 
 
-DELIMITER //
+DELIMITER
+//
 DROP PROCEDURE IF EXISTS `findAllCustomers`//
 CREATE PROCEDURE findAllCustomers()
 
 BEGIN
-   SELECT *  FROM customers where customerNumber = 175;
-END; //
+SELECT *
+FROM customers
+where customerNumber = 175;
+END;
+//
 DELIMITER ;
 
 CALL findAllCustomers();

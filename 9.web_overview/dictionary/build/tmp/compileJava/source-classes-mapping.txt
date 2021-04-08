@@ -1,0 +1,4 @@
+com/example/dictionary/HelloServlet.java
+ com.example.dictionary.HelloServlet
+TranslateServlet.java
+ TranslateServlet

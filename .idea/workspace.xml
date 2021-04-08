@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c97446b-477d-46bb-b404-facf1d4b4130" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C1220G2_NguyenDucHau_Module3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.database_overview/exercises/execute_sql_statements.sql" beforeDir="false" afterPath="$PROJECT_DIR$/1.database_overview/exercises/execute_sql_statements.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.database_overview/practices/database_overview.sql" beforeDir="false" afterPath="$PROJECT_DIR$/1.database_overview/practices/database_overview.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.design_create_database/exercises/banking_management.sql" beforeDir="false" afterPath="$PROJECT_DIR$/2.design_create_database/exercises/banking_management.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.design_create_database/exercises/heloo.sql" beforeDir="false" afterPath="$PROJECT_DIR$/2.design_create_database/exercises/heloo.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.design_create_database/practices/c1220g1_design_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/2.design_create_database/practices/c1220g1_design_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.design_create_database/practices/foreign_key_references.sql" beforeDir="false" afterPath="$PROJECT_DIR$/2.design_create_database/practices/foreign_key_references.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.design_create_database/practices/mysqlsampledatabase.sql" beforeDir="false" afterPath="$PROJECT_DIR$/2.design_create_database/practices/mysqlsampledatabase.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.design_create_database/practices/primary_key.sql" beforeDir="false" afterPath="$PROJECT_DIR$/2.design_create_database/practices/primary_key.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.design_create_database/practices/query_data_from_multiple_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/2.design_create_database/practices/query_data_from_multiple_tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.design_create_database/practices/thao_tac_bang.sql" beforeDir="false" afterPath="$PROJECT_DIR$/2.design_create_database/practices/thao_tac_bang.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.database_manipulation/exercises/libary_management.sql" beforeDir="false" afterPath="$PROJECT_DIR$/3.database_manipulation/exercises/libary_management.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.database_manipulation/practices/advanced_data_query.sql" beforeDir="false" afterPath="$PROJECT_DIR$/3.database_manipulation/practices/advanced_data_query.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.database_manipulation/practices/c1220g1_design_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/3.database_manipulation/practices/c1220g1_design_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.database_manipulation/practices/c1220g1_query_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/3.database_manipulation/practices/c1220g1_query_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.database_manipulation/practices/group_by.sql" beforeDir="false" afterPath="$PROJECT_DIR$/3.database_manipulation/practices/group_by.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.database_manipulation/practices/query_data_from_multiple_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/3.database_manipulation/practices/query_data_from_multiple_tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.functions_in_mysql/exercises/function_in _mysql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/4.functions_in_mysql/exercises/function_in _mysql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.functions_in_mysql/practices/c1220g1_design_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/4.functions_in_mysql/practices/c1220g1_design_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.functions_in_mysql/practices/c1220g1_function_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/4.functions_in_mysql/practices/c1220g1_function_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.view_index_sp/exercises/index_sp_view.sql" beforeDir="false" afterPath="$PROJECT_DIR$/5.view_index_sp/exercises/index_sp_view.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.view_index_sp/practices/index_in_mysql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/5.view_index_sp/practices/index_in_mysql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.view_index_sp/practices/prameter_sp.sql" beforeDir="false" afterPath="$PROJECT_DIR$/5.view_index_sp/practices/prameter_sp.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.view_index_sp/practices/sp_in_mysql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/5.view_index_sp/practices/sp_in_mysql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.view_index_sp/practices/view_in_mysql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/5.view_index_sp/practices/view_in_mysql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.css_overview/exercises/format_paragraph/vietnam.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.css_overview/exercises/format_paragraph/vietnam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.css_overview/exercises/web_mangaa/css_web_hentai.css" beforeDir="false" afterPath="$PROJECT_DIR$/6.css_overview/exercises/web_mangaa/css_web_hentai.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.css_overview/exercises/web_mangaa/web_manga.html" beforeDir="false" afterPath="$PROJECT_DIR$/6.css_overview/exercises/web_mangaa/web_manga.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_1/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_1/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_2/facebook.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_2/facebook.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_2/facebook_style_of_me.css" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_2/facebook_style_of_me.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_3/rwd_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_3/rwd_css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_4/cartoon_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_4/cartoon_css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_4/cartoon_online.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_4/cartoon_online.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_5/css_web_hentai.css" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_5/css_web_hentai.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_5/web_manga.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/exercises/exercises_5/web_manga.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/practices/box_model.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/practices/box_model.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/practices/c1220g1-design-layout-web/content_box_border_box.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/practices/c1220g1-design-layout-web/content_box_border_box.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/practices/c1220g1-design-layout-web/design_reponsive_web.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/practices/c1220g1-design-layout-web/design_reponsive_web.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/practices/c1220g1-design-layout-web/doc_truyen.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/practices/c1220g1-design-layout-web/doc_truyen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/practices/fixed_header_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/practices/fixed_header_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/practices/horizontal_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/practices/horizontal_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/practices/layout_basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/practices/layout_basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/practices/rwd_div_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/practices/rwd_div_css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.design_layout_web/practices/vertical_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.design_layout_web/practices/vertical_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/img/cart3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/img/cart3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/img/person-circle.svg" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/img/person-circle.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/landing_page/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/gallery_boostrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/gallery_boostrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/exercises/simple_gallery_bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/test_bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/c1220g1-bootstrap/test_bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/poly.css" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/css/poly.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/layout_basic_bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/layout_basic_bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/8.bootstrap/practices/layout_basic_bootstrap/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-4.6.0-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_furama_resort.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_furama_resort.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/case_study_furama_resort.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/case_study_furama_resort.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_10.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_10.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_11.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_11.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_12.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_12.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_13.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_13.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_14.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_14.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_15.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_15.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_16.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_16.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_17.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_17.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_18.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_18.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_19.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_19.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_20.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_20.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_21.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_21.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_22.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_22.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_23.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_23.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_4.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_4.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_5.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_5.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_6.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_6.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_7.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_7.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_8.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_8.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study_module_3/task_9.sql" beforeDir="false" afterPath="$PROJECT_DIR$/case_study_module_3/task_9.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qs5jjTEMqjV5ZUS5pgpogtvMKq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.45" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Gradle : com.example : web_overview-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Gradle___com_example___web_overview_1_0_SNAPSHOT_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.example : web_overview-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c97446b-477d-46bb-b404-facf1d4b4130" name="Default Changelist" comment="" />
+      <created>1617855607411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617855607411</updated>
+      <workItem from="1617855611047" duration="194000" />
+      <workItem from="1617855909877" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

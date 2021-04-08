@@ -1,19 +1,25 @@
-use classicmodels;
+use
+classicmodels;
 
 create view customer_views as
-select customerNumber, customerName,phone
+select customerNumber, customerName, phone
 from customers;
 
-select * from customer_views;
+select *
+from customer_views;
 
 -- cap nhat view 
 
-create or replace view customer_view as
+create
+or replace view customer_view as
 
-select customerNumber,customerName,contactFirstName,contactLastName,
-		phone
+select customerNumber,
+       customerName,
+       contactFirstName,
+       contactLastName,
+       phone
 from customers
-where city="Nantes";
+where city = "Nantes";
 
 -- xoa view
 

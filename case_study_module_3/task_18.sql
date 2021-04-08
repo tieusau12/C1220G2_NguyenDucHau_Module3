@@ -1,6 +1,8 @@
-use furama_resort;
+use
+furama_resort;
 
-delete customers, contracts, contract_details
+delete
+customers, contracts, contract_details
 from customers
 left join contracts
 	on customers.id_customer = contracts.id_customer
