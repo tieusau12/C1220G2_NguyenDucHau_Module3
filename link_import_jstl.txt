@@ -1,0 +1,6 @@
+link improt jstl : <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
+
+improt thu vien 
+// https://mvnrepository.com/artifact/javax.servlet/jstl
+implementation group: 'javax.servlet', name: 'jstl', version: '1.2'

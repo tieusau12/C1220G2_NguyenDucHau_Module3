@@ -1,0 +1,6 @@
+com/example/customer_management/HelloServlet.java
+ com.example.customer_management.HelloServlet
+customer/Customer.java
+ customer.Customer
+servlet/CustomerServlet.java
+ servlet.CustomerServlet

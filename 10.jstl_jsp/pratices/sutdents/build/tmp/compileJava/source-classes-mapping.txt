@@ -1,0 +1,6 @@
+servlet/StudentServlet.java
+ servlet.StudentServlet
+bean/Student.java
+ bean.Student
+com/example/sutdents/HelloServlet.java
+ com.example.sutdents.HelloServlet
