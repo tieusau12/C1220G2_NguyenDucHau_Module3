@@ -12,25 +12,25 @@
     <title>Title</title>
 </head>
 <body>
-<form action="" style="border: 1px">
+<form action="/calculator" style="border: 1px">
     <fieldset> Calculator</fieldset>
     <table>
         <tr>
             <td>First operand:</td>
-            <td><input type="text" name="first"></td>
+            <td><input type="text" name="firstNumber"></td>
         </tr>
         <tr>
             <td>Operator :</td>
             <td><select name="operator">
-                <option value="add">Additon</option>
-                <option value="sub">Subtraction</option>
-                <option value="div">Division</option>
-                <option value="mul">Multiplication</option>
+                <option value="+">Additon</option>
+                <option value="-">Subtraction</option>
+                <option value="/">Division</option>
+                <option value="*">Multiplication</option>
             </select></td>
         </tr>
         <tr>
             <td>Second operand :</td>
-            <td><input type="text" name="second"></td>
+            <td><input type="text" name="secondNumber"></td>
         </tr>
         <tr>
             <td></td>
