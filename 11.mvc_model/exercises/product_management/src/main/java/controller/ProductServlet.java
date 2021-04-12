@@ -81,7 +81,15 @@ public class ProductServlet extends HttpServlet {
         if (product == null){
             dispatcher = request.getRequestDispatcher("error-404.jsp");
         }else {
-            request.getRequestDispatcher()
+            request.setAttribute("product", product);
+            dispatcher = request.getRequestDispatcher("product/view.jsp");
+        }
+        try{
+            dispatcher.forward(request,response);
+        }catch (ServletException e){
+            e.printStackTrace();
+        }catch (IOException e){
+            e.printStackTrace();
         }
     }
 }
