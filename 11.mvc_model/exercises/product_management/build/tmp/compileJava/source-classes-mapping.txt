@@ -1,0 +1,10 @@
+com/example/product_management/HelloServlet.java
+ com.example.product_management.HelloServlet
+controller/ProductServlet.java
+ controller.ProductServlet
+service/ProductServiceImpl.java
+ service.ProductServiceImpl
+model/Product.java
+ model.Product
+service/ProductService.java
+ service.ProductService
