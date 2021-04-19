@@ -42,6 +42,7 @@ public class UserRepositoryImpl implements UserRepository {
                 user.setCountry(resultSet.getString("country"));
                 userList.add(user);
             }
+
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }
@@ -88,10 +89,10 @@ public class UserRepositoryImpl implements UserRepository {
     @Override
     public boolean save(User user) {
         try {
-            PreparedStatement preparedStatement =this.baseRepository.getConnection().prepareStatement(INSERT_USERS_SQL);
-            preparedStatement.setString(1,user.getName());
-            preparedStatement.setString(2,user.getEmail());
-            preparedStatement.setString(3,user.getCountry());
+            PreparedStatement preparedStatement = this.baseRepository.getConnection().prepareStatement(INSERT_USERS_SQL);
+            preparedStatement.setString(1, user.getName());
+            preparedStatement.setString(2, user.getEmail());
+            preparedStatement.setString(3, user.getCountry());
 
             preparedStatement.executeUpdate();
             return true;
@@ -105,10 +106,10 @@ public class UserRepositoryImpl implements UserRepository {
     @Override
     public boolean updateUsers(User user) {
         try {
-            PreparedStatement preparedStatement = this.baseRepository.getConnection().prepareStatement(UPDATE_USERS_SQL + "where id="+user.getId());
-            preparedStatement .setString(1,user.getName());
-            preparedStatement .setString(2,user.getEmail());
-            preparedStatement .setString(3,user.getCountry());
+            PreparedStatement preparedStatement = this.baseRepository.getConnection().prepareStatement(UPDATE_USERS_SQL + "where id=" + user.getId());
+            preparedStatement.setString(1, user.getName());
+            preparedStatement.setString(2, user.getEmail());
+            preparedStatement.setString(3, user.getCountry());
 
             preparedStatement.executeUpdate();
             return true;
@@ -117,6 +118,7 @@ public class UserRepositoryImpl implements UserRepository {
         }
 
         return false;
+
     }
 
     @Override
@@ -127,12 +129,12 @@ public class UserRepositoryImpl implements UserRepository {
                     = this.baseRepository.getConnection().prepareStatement("delete from users\n" +
                     "where id=?");
             preparedStatement.setInt(1, id);
-            rowDelete =preparedStatement.executeUpdate()>0;
+            rowDelete = preparedStatement.executeUpdate() > 0;
 
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }
-        return  rowDelete;
+        return rowDelete;
     }
 
     @Override
@@ -143,10 +145,10 @@ public class UserRepositoryImpl implements UserRepository {
             PreparedStatement preparedStatement = this.baseRepository.getConnection().prepareStatement("\n" +
                     "select * from users\n" +
                     "where `name` like ?");
-            preparedStatement.setString(1,"%" +name +"%");
+            preparedStatement.setString(1, "%" + name + "%");
             ResultSet resultSet = preparedStatement.executeQuery();
             User user = null;
-            while (resultSet.next()){
+            while (resultSet.next()) {
                 user = new User();
                 user.setId(Integer.parseInt(resultSet.getString("id")));
                 user.setName(resultSet.getString("name"));
@@ -188,8 +190,8 @@ public class UserRepositoryImpl implements UserRepository {
 
     public static void main(String[] args) {
         UserRepositoryImpl a = new UserRepositoryImpl();
-        List<User> b =a.findAll();
-        for (User k: b) {
+        List<User> b = a.findAll();
+        for (User k : b) {
             System.out.println(k);
         }
     }

@@ -8,9 +8,15 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Delete Service</title>
 </head>
 <body>
-
+<h2> Delete Service</h2>
+ <h2>You want to delete service ?</h2>
+ <form action="/ServiceServlet?actionClient=delete" method="post">
+     <input type="hidden" name="id" value="${serviceObj.id}">
+     <input type="submit" name="confirm" value="Yes">
+     <input type="submit" name="confirm" value="No">
+ </form>
 </body>
 </html>

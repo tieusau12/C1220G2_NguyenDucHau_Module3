@@ -6,11 +6,11 @@ model/bean/User.java
  model.bean.User
 model/repository/UserRepository.java
  model.repository.UserRepository
-model/service/impl/UsersServiceImpl.java
- model.service.impl.UsersServiceImpl
 model/service/UsersService.java
  model.service.UsersService
-controller/UserServlet.java
- controller.UserServlet
+model/service/impl/UsersServiceImpl.java
+ model.service.impl.UsersServiceImpl
 model/repository/impl/UserRepositoryImpl.java
  model.repository.impl.UserRepositoryImpl
+controller/UserServlet.java
+ controller.UserServlet

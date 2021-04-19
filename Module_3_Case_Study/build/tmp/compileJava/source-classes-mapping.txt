@@ -1,24 +1,24 @@
-com/example/Module_3_Case_Study/HelloServlet.java
- com.example.Module_3_Case_Study.HelloServlet
 controller/CustomerServlet.java
  controller.CustomerServlet
-model/service/CRUDService.java
- model.service.CRUDService
+model/repository/BaseRepository.java
+ model.repository.BaseRepository
 model/bean/Service.java
  model.bean.Service
 model/bean/Customer.java
  model.bean.Customer
+com/example/Module_3_Case_Study/HelloServlet.java
+ com.example.Module_3_Case_Study.HelloServlet
 model/bean/Employee.java
  model.bean.Employee
 controller/EmployeeServlet.java
  controller.EmployeeServlet
 model/repository/CRUDRepository.java
  model.repository.CRUDRepository
-model/repository/Impl/ServiceRepositoryImpl.java
- model.repository.Impl.ServiceRepositoryImpl
-model/repository/BaseRepository.java
- model.repository.BaseRepository
-model/service/impl/ServiceImpl.java
- model.service.impl.ServiceImpl
+model/service/CRUDService.java
+ model.service.CRUDService
 controller/ServiceServlet.java
  controller.ServiceServlet
+model/service/impl/ServiceImpl.java
+ model.service.impl.ServiceImpl
+model/repository/Impl/ServiceRepositoryImpl.java
+ model.repository.Impl.ServiceRepositoryImpl

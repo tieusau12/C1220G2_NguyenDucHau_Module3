@@ -13,4 +13,35 @@ public class ServiceImpl implements CRUDService<Service> {
     public List<Service> findAll() {
         return this.serviceRepository.findAll();
     }
+
+    @Override
+    public boolean insertInto(Service service) {
+        return serviceRepository.insertInto(service);
+    }
+
+    @Override
+    public boolean delete(String id) {
+        return serviceRepository.delete(id);
+    }
+
+    @Override
+    public Service findById(String id) {
+        return serviceRepository.findById(id);
+    }
+
+    @Override
+    public boolean edit(Service service) {
+        return serviceRepository.edit(service);
+    }
+
+    @Override
+    public List<Service> searchByName(String name) {
+        return serviceRepository.searchByName(name);
+    }
+
+    @Override
+    public List<Service> sort() {
+        return serviceRepository.sort();
+    }
+
 }

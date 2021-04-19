@@ -58,7 +58,7 @@ public class UserServlet extends HttpServlet {
                 break;
             case "delete":
                 deleteUser(request, response);
-                loadlist(request, response);
+                loadlist(request,response);
                 break;
             case "search":
                 String keyword = request.getParameter("name");
@@ -73,12 +73,10 @@ public class UserServlet extends HttpServlet {
         }
     }
 
-    private void deleteUser(HttpServletRequest request, HttpServletResponse response) {
+    private void deleteUser(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         int id = Integer.parseInt(request.getParameter("id"));
         String confirm = request.getParameter("confirm");
         if (confirm.equals("Yes")) {
-            usersService.remove(id);
-        } else {
             usersService.remove(id);
         }
     }
@@ -100,7 +98,7 @@ public class UserServlet extends HttpServlet {
         if (check) {
             msg = " Create successfully!";
         } else {
-            msg = "Create faile!";
+            msg = "Create false!";
         }
         request.setAttribute("msg", msg);
         request.setAttribute("usersObj", user);
@@ -112,7 +110,7 @@ public class UserServlet extends HttpServlet {
         request.getRequestDispatcher("view/create.jsp").forward(request, response);
     }
 
-    private void showEditForm(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    private void  showEditForm(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         Integer id = Integer.parseInt(request.getParameter("id"));
         User userFromService = this.usersService.findById(id);
 

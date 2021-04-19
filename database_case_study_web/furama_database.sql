@@ -162,7 +162,7 @@ service_area double,
 service_cost double not null,
 service_capacity int,
 standard_room varchar(45),
-description_other_convinience varchar(45),
+description_other_convenience varchar(45),
 pool_area double,
 number_of_floors int,
 rent_type_id int not null,
@@ -171,8 +171,7 @@ service_type_id int not null,
 foreign key (rent_type_id) references rent_type (id) on delete cascade,
 foreign key (service_type_id) references service_type (id) on delete cascade
 );
-
-insert into service (id, service_name,service_area,service_cost,service_capacity,standard_room,description_other_convinience,
+insert into service (id, service_name,service_area,service_cost,service_capacity,standard_room,description_other_convenience,
 					pool_area,number_of_floors,rent_type_id,service_type_id)
 values
 ('DV-1001','Villa-01',57.5,700,4,'Standard','Garden View',17.5,1,1,1),
