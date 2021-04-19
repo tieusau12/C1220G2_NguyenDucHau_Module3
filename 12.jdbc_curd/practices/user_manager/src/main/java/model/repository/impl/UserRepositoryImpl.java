@@ -186,4 +186,11 @@ public class UserRepositoryImpl implements UserRepository {
         return userList;
     }
 
+    public static void main(String[] args) {
+        UserRepositoryImpl a = new UserRepositoryImpl();
+        List<User> b =a.findAll();
+        for (User k: b) {
+            System.out.println(k);
+        }
+    }
 }

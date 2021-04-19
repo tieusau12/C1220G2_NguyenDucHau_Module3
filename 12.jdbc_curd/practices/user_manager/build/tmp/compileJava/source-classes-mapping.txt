@@ -1,9 +1,9 @@
-model/bean/User.java
- model.bean.User
-model/repository/BaseRepository.java
- model.repository.BaseRepository
 com/example/user_manager/HelloServlet.java
  com.example.user_manager.HelloServlet
+model/repository/BaseRepository.java
+ model.repository.BaseRepository
+model/bean/User.java
+ model.bean.User
 model/repository/UserRepository.java
  model.repository.UserRepository
 model/service/impl/UsersServiceImpl.java
