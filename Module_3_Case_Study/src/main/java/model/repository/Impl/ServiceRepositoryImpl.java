@@ -49,6 +49,11 @@ public class ServiceRepositoryImpl implements CRUDRepository<Service> {
     }
 
     @Override
+    public List<Service> findAllType() {
+        return null;
+    }
+
+    @Override
     public boolean insertInto(Service service) {
         try {
             PreparedStatement preparedStatement = this.baseRepository.getConnection().prepareStatement("insert into service \n" +
@@ -177,7 +182,35 @@ public class ServiceRepositoryImpl implements CRUDRepository<Service> {
 
     @Override
     public List<Service> sort() {
-        return null;
+        List<Service> serviceList= new ArrayList<>();
+        try {
+            Statement statement =this.baseRepository.getConnection().createStatement();
+            ResultSet resultSet = statement.executeQuery("select * \n" +
+                    "from service\n" +
+                    "order by  service_name");
+            Service service = null;
+            while (resultSet.next()){
+                service = new Service();
+                service.setId(resultSet.getString(1));
+                service.setService_name(resultSet.getString(2));
+                service.setService_area(resultSet.getDouble(3));
+                service.setService_cost(resultSet.getDouble(4));
+                service.setService_capacity(resultSet.getInt(5));
+                service.setStandard_room(resultSet.getString(6));
+                service.setDescription_other_convenience(resultSet.getString(7));
+                service.setPool_area(resultSet.getDouble(8));
+                service.setNumber_of_floors(resultSet.getInt(9));
+                service.setRentTypeName(resultSet.getString(10));
+                service.setServiceTypeName(resultSet.getString(11));
+
+                serviceList.add(service);
+
+            }
+        } catch (SQLException throwables) {
+            throwables.printStackTrace();
+        }
+
+        return serviceList;
     }
 
 //    public static void main(String[] args) {
@@ -187,8 +220,8 @@ public class ServiceRepositoryImpl implements CRUDRepository<Service> {
 //
 ////        System.out.println(a.edit("House",29,900.0,"Premium","Beach View",20.5,2,3,1,));
 ////        System.out.println(a.delete("DV-2001"));
-//        a.edit(new Service("A",40.0, 40.0,4,"Cui Bap", "bai kem",10.0, 10,10,10));
-//        List<Service> b = a.findAll();
+////        a.edit(new Service("A",40.0, 40.0,4,"Cui Bap", "bai kem",10.0, 10,10,10));
+//        List<Service> b = a.searchByName("Room");
 //        for (Service k : b) {
 //            System.out.println(k);
 //        }

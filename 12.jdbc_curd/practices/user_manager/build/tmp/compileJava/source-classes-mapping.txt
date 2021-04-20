@@ -8,9 +8,9 @@ model/repository/UserRepository.java
  model.repository.UserRepository
 model/service/UsersService.java
  model.service.UsersService
-model/service/impl/UsersServiceImpl.java
- model.service.impl.UsersServiceImpl
 model/repository/impl/UserRepositoryImpl.java
  model.repository.impl.UserRepositoryImpl
+model/service/impl/UsersServiceImpl.java
+ model.service.impl.UsersServiceImpl
 controller/UserServlet.java
  controller.UserServlet

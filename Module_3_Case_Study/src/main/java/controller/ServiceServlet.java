@@ -8,6 +8,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.annotation.*;
 import java.io.IOException;
+import java.util.List;
 
 @WebServlet(name = "ServiceServlet", urlPatterns = "/ServiceServlet")
 public class ServiceServlet extends HttpServlet {
@@ -30,6 +31,9 @@ public class ServiceServlet extends HttpServlet {
                 showDeleteService(request,response);
                 break;
             case "sort":
+                List<Service> list  = serviceCRUDService.sort();
+                request.setAttribute("ServiceListServlet", list);
+                request.getRequestDispatcher("view/service/service_list.jsp").forward(request,response);
                 break;
             default:
                 listService(request, response);
@@ -55,7 +59,12 @@ public class ServiceServlet extends HttpServlet {
                 deleteService(request,response);
                 listService(request,response);
                 break;
-            case "sort":
+            case "search":
+                String keyword = request.getParameter("name");
+                List<Service> list = serviceCRUDService.searchByName(keyword);
+                request.setAttribute("ServiceListServlet", list);
+                request.setAttribute("keyword", keyword);
+                request.getRequestDispatcher("view/service/search_service.jsp").forward(request,response);
                 break;
             default:
                 listService(request, response);

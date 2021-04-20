@@ -65,7 +65,7 @@ public class UserServlet extends HttpServlet {
                 List<User> list = usersService.searchByName(keyword);
                 request.setAttribute("usersListServlet", list);
                 request.setAttribute("keyword",keyword);
-                request.getRequestDispatcher("index.jsp").forward(request, response);
+                request.getRequestDispatcher("view/search.jsp").forward(request, response);
 
                 break;
             default:

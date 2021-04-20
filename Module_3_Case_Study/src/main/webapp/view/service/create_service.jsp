@@ -21,11 +21,11 @@
         <input type="text" name="id" value="${serviceObj.id}">
     </p>
     <p>
-        Name Service:
+        Service Name:
         <input type="text" name="name" value="${serviceObj.service_name}">
     </p>
     <p>
-        Area:
+         Area:
         <input type="text" name="area" value="${serviceObj.service_area}">
     </p>
     <p>

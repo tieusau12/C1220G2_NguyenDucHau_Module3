@@ -10,12 +10,12 @@
     <p>
         <a href="/userServlet?actionClient=create">Create new User</a>
     </p>
-    <p>
-    <form action="/userServlet?actionClient=search" method="post">
-        <input type="text" name="name" value="${keyword}"/>
-        <input type="submit" value="Search">
-    </form>
-    </p>
+
+        <form action="/userServlet?actionClient=search" method="post">
+            <input type="text" name="name" value="${keyword}"/>
+            <input type="submit" value="Search">
+        </form>
+
     <table border="1">
         <tr>
             <th>No</th>

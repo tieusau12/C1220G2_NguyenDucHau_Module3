@@ -4,7 +4,9 @@ import java.util.List;
 
 public interface CRUDRepository<E> {
     List<E> findAll();
+    List<E> findAllType();
     boolean insertInto(E e);
+
 
     boolean delete(String id);
 

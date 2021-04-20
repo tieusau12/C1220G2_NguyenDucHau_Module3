@@ -15,6 +15,11 @@ public class ServiceImpl implements CRUDService<Service> {
     }
 
     @Override
+    public List<Service> findAllType() {
+        return null;
+    }
+
+    @Override
     public boolean insertInto(Service service) {
         return serviceRepository.insertInto(service);
     }

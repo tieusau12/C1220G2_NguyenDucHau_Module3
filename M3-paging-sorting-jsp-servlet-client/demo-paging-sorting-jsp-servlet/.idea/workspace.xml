@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3609fed-3130-4cc9-8f6c-40d514040b4d" name="Default Changelist" comment="" />
+    <list default="true" id="d3609fed-3130-4cc9-8f6c-40d514040b4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/demo-paging-sorting-jsp-servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../phan_trang/phan_trang.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/build/classes/java/main/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/build/classes/java/main/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/build/classes/java/main/model/repository/impl/UserRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/build/classes/java/main/model/repository/impl/UserRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/build/libs/user_manager-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/build/libs/user_manager-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/src/main/java/controller/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../12.jdbc_curd/practices/user_manager/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/demo-paging-sorting-jsp-servlet-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/demo-paging-sorting-jsp-servlet-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/controller/ServiceServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/controller/ServiceServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/model/repository/CRUDRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/model/repository/CRUDRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/model/repository/Impl/ServiceRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/model/repository/Impl/ServiceRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/model/service/CRUDService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/model/service/CRUDService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/model/service/impl/ServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/build/classes/java/main/model/service/impl/ServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/build/libs/Module_3_Case_Study-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/build/libs/Module_3_Case_Study-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/src/main/java/controller/ServiceServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/src/main/java/controller/ServiceServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/src/main/java/model/repository/Impl/ServiceRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/src/main/java/model/repository/Impl/ServiceRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/src/main/webapp/view/service/search_service.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/src/main/webapp/view/service/search_service.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_3_Case_Study/src/main/webapp/view/service/service_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module_3_Case_Study/src/main/webapp/view/service/service_list.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +82,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -39,17 +93,19 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1h5Oco3MScXNuYeVd3oBgqe8RtQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -69,7 +125,20 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 9.0.21" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.45" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Gradle : org.example : demo-paging-sorting-jsp-servlet-1.0-SNAPSHOT.war">
@@ -105,6 +174,21 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
           <option name="USE_DEFAULT" value="true" />
@@ -227,6 +311,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -238,68 +323,24 @@
       <option name="presentableId" value="Default" />
       <updated>1599297568691</updated>
       <workItem from="1599297573590" duration="12565000" />
+      <workItem from="1618883086597" duration="2109000" />
+      <workItem from="1618887894811" duration="269000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599298658629">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599298658629" />
-    <state width="905" height="179" key="GridCell.Tab.0.bottom" timestamp="1599320526096">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599320526096" />
-    <state width="905" height="179" key="GridCell.Tab.0.center" timestamp="1599320526096">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599320526096" />
-    <state width="905" height="179" key="GridCell.Tab.0.left" timestamp="1599320526095">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599320526095" />
-    <state width="905" height="179" key="GridCell.Tab.0.right" timestamp="1599320526096">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599320526096" />
-    <state width="905" height="179" key="GridCell.Tab.1.bottom" timestamp="1599320526097">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599320526097" />
-    <state width="905" height="179" key="GridCell.Tab.1.center" timestamp="1599320526097">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599320526097" />
-    <state width="905" height="179" key="GridCell.Tab.1.left" timestamp="1599320526096">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599320526096" />
-    <state width="905" height="179" key="GridCell.Tab.1.right" timestamp="1599320526097">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599320526097" />
-    <state width="905" height="179" key="GridCell.Tab.2.bottom" timestamp="1599320526096">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599320526096" />
-    <state width="905" height="179" key="GridCell.Tab.2.center" timestamp="1599320526096">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1599320526096" />
-    <state width="905" height="179" key="GridCell.Tab.2.left" timestamp="1599320526096">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1599320526096" />
-    <state width="905" height="179" key="GridCell.Tab.2.right" timestamp="1599320526096">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="905" height="179" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1599320526096" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1599317283146">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599317283146" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

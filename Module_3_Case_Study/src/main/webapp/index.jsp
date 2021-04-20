@@ -30,7 +30,7 @@
                 <a class="nav-link" href="#">Employee <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Customer</a>
+                <a class="nav-link" href="http://localhost:8080/CustomerServlet">Customer</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="http://localhost:8080/ServiceServlet">Service</a>
