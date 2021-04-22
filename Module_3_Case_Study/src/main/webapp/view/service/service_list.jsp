@@ -62,14 +62,10 @@
                         <td>${service.number_of_floors}</td>
                         <td>${service.rentTypeName}</td>
                         <td>${service.serviceTypeName}</td>
-                        <td><a href="/ServiceServlet?actionClient=edit&id=${service.id}">Edit</a></td>
-                            <%--      <td><button class="btn btn-primary" onclick="sentIdToForm(${service.id})">--%>
-                            <%--              Delete--%>
-                            <%--      </button></td>--%>
                         <td>
-                                <%--                    <button class="btn btn-muted" onclick="setIdToForm(${service.id})">--%>
-                                <%--                        <i class="far fa-trash-alt text-danger" style="font-size: 1.5rem">Delete</i>--%>
-                                <%--                    </button>--%>
+                            <a href="/ServiceServlet?actionClient=edit&id=${service.id}">Edit</a>
+                        </td>
+                        <td>
                             <a href="/ServiceServlet?actionClient=delete&id=${service.id}">Delete</a>
                         </td>
                     </tr>
@@ -82,35 +78,6 @@
     </div>
 </div>
 
-<!-- Button trigger modal -->
-
-
-<!-- Modal -->
-<%--    <div class="modal fade" id="confirm-delete" tabindex="-1"--%>
-<%--         role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">--%>
-<%--        <div class="modal-dialog">--%>
-<%--            <div class="modal-content">--%>
-<%--                <div class="modal-header">--%>
-<%--                    <h4 class="modal-title" id="myModalLabel">Confirm Delete</h4>--%>
-<%--                    <button type="button" class="close" data-dismiss="modal"--%>
-<%--                            aria-hidden="true">×--%>
-<%--                    </button>--%>
-<%--                </div>--%>
-<%--                <div class="modal-body">--%>
-<%--                    <p>Do you want to proceed ?</p>--%>
-<%--                </div>--%>
-<%--                <div class="modal-footer">--%>
-<%--                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>--%>
-<%--                    <form action="/positions">--%>
-<%--                        <input type="hidden" name="action" value="delete">--%>
-<%--                        <input type="hidden" name="idDelete" value="idDelete" id="idDelete">--%>
-<%--                        <input type="submit" class="btn btn-danger" value="Delete">--%>
-<%--                    </form>--%>
-<%--                </div>--%>
-<%--            </div>--%>
-<%--        </div>--%>
-<%--    </div>--%>
-<%--</div>--%>
 <script src="../../js/jquery-3.6.0.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="datatables/js/jquery.dataTables.min.js"></script>

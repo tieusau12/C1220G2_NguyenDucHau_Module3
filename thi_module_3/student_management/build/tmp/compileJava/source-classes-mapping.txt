@@ -1,0 +1,18 @@
+model/service/common/Validation.java
+ model.service.common.Validation
+model/repository/BaseRepository.java
+ model.repository.BaseRepository
+com/example/student_management/HelloServlet.java
+ com.example.student_management.HelloServlet
+model/service/CRUDService.java
+ model.service.CRUDService
+model/repository/CRUDRepository.java
+ model.repository.CRUDRepository
+model/bean/Student.java
+ model.bean.Student
+controller/StudentServlet.java
+ controller.StudentServlet
+model/service/impl/StudentServiceImpl.java
+ model.service.impl.StudentServiceImpl
+model/repository/impl/StudentRepositoryImpl.java
+ model.repository.impl.StudentRepositoryImpl
